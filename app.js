@@ -30,8 +30,8 @@ app.get("/projects", function(req, res){
     res.render("projects")
 })
 
-app.get("/services", function(req, res){
-    res.render("services");
+app.get("/extras", function(req, res){
+    res.render("extras");
 })
 
 app.get("/contactme", function(req, res){
