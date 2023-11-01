@@ -223,3 +223,8 @@ body {
   table {
     border: 1px solid #555;
   }
+
+  .linkedin_screenshot {
+    margin: auto;
+    width: 100%;
+  }
