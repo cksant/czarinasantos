@@ -224,7 +224,7 @@ body {
     border: 1px solid #555;
   }
 
-  .linkedin_screenshot {
+  #linkedin_screenshot {
     display: block;
     margin: auto;
     width: 100%;
