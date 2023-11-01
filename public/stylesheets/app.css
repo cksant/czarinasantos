@@ -225,6 +225,7 @@ body {
   }
 
   .linkedin_screenshot {
+    display: block;
     margin: auto;
     width: 100%;
     border-radius: 15px;
